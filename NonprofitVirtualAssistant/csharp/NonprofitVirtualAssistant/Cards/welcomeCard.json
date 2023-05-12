@@ -1,0 +1,74 @@
+{
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "extraLarge",
+      "weight": "bolder",
+      "wrap": true,
+      "text": "Hello and welcome!"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "weight": "bolder",
+      "wrap": true,
+      "text": "Nonprofit Virtual Assistant helps non-profit organizations produce new donor, patron or community communications."
+    },
+    {
+      "type": "Image",
+      "url": "https://i.postimg.cc/3JQnCL69/NVA-Welcome-Card-v3.png"
+    },
+    {
+      "type": "TextBlock",
+      "size": "medium",
+      "weight": "bolder",
+      "wrap": true,
+      "text": "Need help writing a letter? Select one of the options to get started."
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Funding  Request",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "Write a funding request letter"
+        }
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Urgent Appeal",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "Write an urgent appeal letter"
+        }
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "Volunteer Request",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "Write a volunteer request letter"
+        }
+      }
+    },
+    {
+      "type": "Action.Submit",
+      "title": "In-Kind Donation Request",
+      "data": {
+        "msteams": {
+          "type": "imBack",
+          "value": "Write an in-kind donation request letter"
+        }
+      }
+    }
+  ]
+}

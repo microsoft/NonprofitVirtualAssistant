@@ -21,7 +21,7 @@ https://github.com/microsoft/NonprofitVirtualAssistant/assets/92055663/ef59725d-
 git clone https://github.com/microsoft/NonprofitVirtualAssistant.git
 ```
 
-- Add an environment variable named `OPENAI_KEY` and set its value as the api key you get from [OpenAI api portal](https://platform.openai.com/account/api-keys). 
+- Add an environment variable named `OPENAI_KEY` and set its value as the api key you get from [OpenAI API portal](https://platform.openai.com/account/api-keys). 
 
 - Launch Visual Studio
 

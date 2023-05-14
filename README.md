@@ -3,7 +3,7 @@
 Nonprofit Virtual Assistant is a Teams-based Virtual Assistant for nonprofit organizations, powered by OpenAI services. With the Nonprofit Virtual Assistant, nonprofit organizations can take advantage of the advanced language capabilities of OpenAI to simplify internal workflows and deepen their connection with their communities, patrons, donors, and stakeholders more effectively than ever before.
 The assistant will focus on generating four essential letters: Funding Request Letter, In-Kind Donation Request Letter, Urgent Appeal Letter, and Volunteer Recruitment Letter.
 
-https://github.com/ValoremReply/NonprofitVirtualAssistant/assets/133034624/5a47aad4-9bc0-42b6-bddd-bf4e897e7a85
+https://github.com/microsoft/NonprofitVirtualAssistant/assets/92055663/ef59725d-85c5-459b-9ee1-88375ecfc60d
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ https://github.com/ValoremReply/NonprofitVirtualAssistant/assets/133034624/5a47a
 - Clone the repo. 
 
 ```
-git clone https://github.com/ValoremReply/NonprofitVirtualAssistant.git
+git clone https://github.com/microsoft/NonprofitVirtualAssistant/NonprofitVirtualAssistant.git
 ```
 
 - Add an environment variable named `OPENAI_KEY` and set its value as the api key you get from [OpenAI api portal](https://platform.openai.com/account/api-keys). 

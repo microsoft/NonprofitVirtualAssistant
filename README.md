@@ -18,7 +18,7 @@ https://github.com/microsoft/NonprofitVirtualAssistant/assets/92055663/ef59725d-
 - Clone the repo. 
 
 ```
-git clone https://github.com/microsoft/NonprofitVirtualAssistant/NonprofitVirtualAssistant.git
+git clone https://github.com/microsoft/NonprofitVirtualAssistant.git
 ```
 
 - Add an environment variable named `OPENAI_KEY` and set its value as the api key you get from [OpenAI api portal](https://platform.openai.com/account/api-keys). 

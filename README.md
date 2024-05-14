@@ -70,8 +70,8 @@ You can share/commit the generated `azure.parameters.env.json` file if you want 
 ### Should the assistant use GPT -3.5 or GPT-4?
 Although the app was tested with both GPT-3.5 and GPT-4, GPT-4 is recommended for optimal performance.
 
-### Can the assistant use Azure Open AI?
-The app functions with both OpenAI or Azure Open AI. The repo currently uses OpenAI. If you have access to Azure OpenAI, it is recommended to make the switch in the API call and also skip the call to OpenAI Moderation API.
+### Can the assistant use Azure OpenAI?
+The app functions with both OpenAI or Azure OpenAI. The repo currently uses OpenAI. If you have access to Azure OpenAI, it is recommended to make the switch in the API call and also skip the call to OpenAI Moderation API.
 [Request access to Azure OpenAI.](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu)
 
 ## List of third party javascript libraries/versions

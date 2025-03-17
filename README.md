@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repository is no longer being actively maintained and will be removed from GitHub on December 31, 2025.
+
 # Nonprofit Virtual Assistant (for Microsoft Teams)
 
 Nonprofit Virtual Assistant is a Teams-based Virtual Assistant for nonprofit organizations, powered by OpenAI services. With the Nonprofit Virtual Assistant, nonprofit organizations can take advantage of the advanced language capabilities of OpenAI to simplify internal workflows and deepen their connection with their communities, patrons, donors, and stakeholders more effectively than ever before.
